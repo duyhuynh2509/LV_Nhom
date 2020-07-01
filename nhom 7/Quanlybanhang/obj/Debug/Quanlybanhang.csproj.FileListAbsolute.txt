@@ -1,0 +1,27 @@
+C:\Users\ThanhLe\source\repos\Quanlybanhang\Quanlybanhang\bin\Debug\Quanlybanhang.exe.config
+C:\Users\ThanhLe\source\repos\Quanlybanhang\Quanlybanhang\bin\Debug\Quanlybanhang.exe
+C:\Users\ThanhLe\source\repos\Quanlybanhang\Quanlybanhang\bin\Debug\Quanlybanhang.pdb
+C:\Users\ThanhLe\source\repos\Quanlybanhang\Quanlybanhang\obj\Debug\Quanlybanhang.csprojAssemblyReference.cache
+C:\Users\ThanhLe\source\repos\Quanlybanhang\Quanlybanhang\obj\Debug\Quanlybanhang.Form1.resources
+C:\Users\ThanhLe\source\repos\Quanlybanhang\Quanlybanhang\obj\Debug\Quanlybanhang.Properties.Resources.resources
+C:\Users\ThanhLe\source\repos\Quanlybanhang\Quanlybanhang\obj\Debug\Quanlybanhang.csproj.GenerateResource.cache
+C:\Users\ThanhLe\source\repos\Quanlybanhang\Quanlybanhang\obj\Debug\Quanlybanhang.csproj.CoreCompileInputs.cache
+C:\Users\ThanhLe\source\repos\Quanlybanhang\Quanlybanhang\obj\Debug\Quanlybanhang.exe
+C:\Users\ThanhLe\source\repos\Quanlybanhang\Quanlybanhang\obj\Debug\Quanlybanhang.pdb
+C:\Users\DELL\Desktop\THLVN\nhom 7\Quanlybanhang\obj\Debug\Quanlybanhang.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\THLVN\nhom 7\Quanlybanhang\obj\Debug\Quanlybanhang.exe
+C:\Users\DELL\Desktop\THLVN\nhom 7\Quanlybanhang\obj\Debug\Quanlybanhang.pdb
+C:\Users\DELL\Desktop\THLVN\nhom 7\Quanlybanhang\obj\Debug\Quanlybanhang.DangNhap.resources
+C:\Users\DELL\Desktop\THLVN\nhom 7\Quanlybanhang\obj\Debug\Quanlybanhang.DanhMucSanPham.resources
+C:\Users\DELL\Desktop\THLVN\nhom 7\Quanlybanhang\obj\Debug\Quanlybanhang.DoiMatKhau.resources
+C:\Users\DELL\Desktop\THLVN\nhom 7\Quanlybanhang\obj\Debug\Quanlybanhang.HoaDonXuat.resources
+C:\Users\DELL\Desktop\THLVN\nhom 7\Quanlybanhang\obj\Debug\Quanlybanhang.Main.resources
+C:\Users\DELL\Desktop\THLVN\nhom 7\Quanlybanhang\obj\Debug\Quanlybanhang.HoaDonNhap.resources
+C:\Users\DELL\Desktop\THLVN\nhom 7\Quanlybanhang\obj\Debug\Quanlybanhang.ThongKeDanhThu.resources
+C:\Users\DELL\Desktop\THLVN\nhom 7\Quanlybanhang\obj\Debug\Quanlybanhang.ThongTinNhanVien.resources
+C:\Users\DELL\Desktop\THLVN\nhom 7\Quanlybanhang\obj\Debug\Quanlybanhang.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\THLVN\nhom 7\Quanlybanhang\bin\Debug\Quanlybanhang.exe.config
+C:\Users\DELL\Desktop\THLVN\nhom 7\Quanlybanhang\bin\Debug\Quanlybanhang.exe
+C:\Users\DELL\Desktop\THLVN\nhom 7\Quanlybanhang\bin\Debug\Quanlybanhang.pdb
+C:\Users\DELL\Desktop\THLVN\nhom 7\Quanlybanhang\obj\Debug\Quanlybanhang.Properties.Resources.resources
+C:\Users\DELL\Desktop\THLVN\nhom 7\Quanlybanhang\obj\Debug\Quanlybanhang.csproj.CoreCompileInputs.cache
